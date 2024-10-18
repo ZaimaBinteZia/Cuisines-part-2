@@ -1,0 +1,66 @@
+a {
+    font-size: 17px;
+    text-decoration: none;
+    color: rgb(78, 48, 4)
+}
+
+a:hover {
+    color: rgba(156, 95, 4, 0.986)
+}
+
+article {
+    background-color: rgba(146, 86, 7, 0.396);
+    margin: 50px 20px 20px 20px;
+}
+
+h3,
+#contact,
+#email {
+    background-color: rgba(159, 102, 22, 0.692);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#else {
+    background-color: rgba(168, 115, 30, 0.489);
+    margin-top: 80px
+}
+
+#contact,
+#email {
+    background-color: rgba(162, 102, 23, 0.767)
+}
+
+main {
+    background-color: rgba(242, 205, 105, 0.447)
+}
+
+main,
+header,
+article,
+#else {
+    border: 2px solid rgba(93, 51, 7, 0.949);
+    border-radius: 10px;
+}
+
+h1,
+h2,
+aside {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h2 {
+    padding-top: 30px;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+header {
+    margin-bottom: 80px;
+}
